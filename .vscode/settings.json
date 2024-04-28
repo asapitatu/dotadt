@@ -1,0 +1,10 @@
+{
+    "svelte.enable-ts-plugin": true,
+    "[svelte]": {
+        "editor.defaultFormatter": "svelte.svelte-vscode"
+    },
+    "workbench.editor.labelFormat": "short",
+    "explorer.sortOrder": "filesFirst",
+    "explorer.compactFolders": false,
+    "workbench.tree.indent": 12,
+}
